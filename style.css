@@ -3,4 +3,5 @@ div {
     height: 20rem;
     background-color: skyblue;
     border: 3px solid black;
+    display: inline-block;
 }
